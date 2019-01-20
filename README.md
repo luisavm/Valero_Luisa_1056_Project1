@@ -4,9 +4,9 @@
 
 Clone the project, nagivate to the directory - <code> cd directoryname </code> 
 
-- then git pull origin Valero_Luisa_1056_Project1 in Terminal, window for Mac/Linux. 
+- then git pull origin master in Terminal, window for Mac/Linux. 
 
-- The file will be Valero_Luisa_1056_Project1.zip and click it.
+- the file will be Valero_Luisa_1056_Project1.zip and click it.
 
 - and run assets file in your file and there are six wireframes with PDFs.
 
