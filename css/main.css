@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/*css Document */
+
+#container{
+  width: 700px;
+  margin: 0 auto;
+}
+
+body
+{
+font-family: Helvetica, Arial, sans-serif;
+font-size: 14px;
+color: #636363;
+}
+
+h1
+{
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 30px;
+ margin-bottom: 20px;
+ margin-top: 50px;
+ letter-spacing: 5px;
+}
+
+p
+{
+line-height: 24px;
+margin-bottom: 20px;
+}
